@@ -2,6 +2,8 @@
 # Art and Technology Area Draft
 ## University of the Arts, Singapore
 
+[Download this as PDF]().
+
 This draft includes the initial aspects, considerations, and ideas about the directives for establishing
 the Art and Technology Area (A+T) of the University of the Arts in Singapore. It is based upon my expertise in the field, and on my academic experience in digital and new media art since 1998.
 
