@@ -2,7 +2,7 @@
 # Art and Technology Area Draft
 ## University of the Arts, Singapore
 
-[Download this as PDF] (https://github.com/dejangrba/art-and-technology-draft/blob/main/2021-08-08%20-%20Dejan%20Grba%20-%202021%20-%20Art%20and%20Technology%20Draft.pdf)
+[Download this as PDF](https://github.com/dejangrba/art-and-technology-draft/raw/main/2021-08-08%20-%20Dejan%20Grba%20-%202021%20-%20Art%20and%20Technology%20Draft.pdf)
 
 This draft includes the initial aspects, considerations, and ideas about the directives for establishing
 the Art and Technology Area (A+T) of the University of the Arts in Singapore. It is based upon my expertise in the field, and on my academic experience in digital and new media art since 1998.
