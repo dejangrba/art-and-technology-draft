@@ -116,37 +116,36 @@ Taylor, Grant D. 2014. *When the Machine Made Art*. New York and London: Bloomsb
 V.A. 2018. *Our Singapore Arts Plan 2018-2022: Excellence that Inspires Our People and Connects Our Communities*. National Arts Council, Singapore.
 
 # 8. Academic Programs Researched
-Art & Science, Universität für angewandte Kunst Vienna [(https://www.dieangewandte.at/studium/artscience_en](https://www.dieangewandte.at/studium/artscience_en).
+Art & Science, Universität für angewandte Kunst Vienna [https://www.dieangewandte.at/studium/artscience_en](https://www.dieangewandte.at/studium/artscience_en).
 
-Art and Technology Program, Ohio State University [(https://u.osu.edu/artandtech/](https://u.osu.edu/artandtech/).
+Art and Technology Program, Ohio State University [https://u.osu.edu/artandtech/](https://u.osu.edu/artandtech/).
 
-Art and Technology Studies Program, School of the Art Institute of Chicago [(https://www.saic.edu/](https://www.saic.edu/).
+Art and Technology Studies Program, School of the Art Institute of Chicago [https://www.saic.edu/](https://www.saic.edu/).
 
-Computational Studio Arts, Goldsmiths University of London [(https://www.gold.ac.uk/pg/mfa-computational-arts/](https://www.gold.ac.uk/pg/mfa-computational-arts/).
+Computational Studio Arts, Goldsmiths University of London [https://www.gold.ac.uk/pg/mfa-computational-arts/](https://www.gold.ac.uk/pg/mfa-computational-arts/).
 
-Design and Media, University of California at Los Angeles [(http://dma.ucla.edu/](http://dma.ucla.edu/).
+Design and Media, University of California at Los Angeles [http://dma.ucla.edu/](http://dma.ucla.edu/).
 
-Digitale Klasse, UdK Berlin [(https://newmedia.udk-berlin.de/](https://newmedia.udk-berlin.de/).
+Digitale Klasse, UdK Berlin [https://newmedia.udk-berlin.de/](https://newmedia.udk-berlin.de/).
 
-Future Sketches, MIT Media Lab [(https://www.media.mit.edu/groups/future-sketches/overview/](https://www.media.mit.edu/groups/future-sketches/overview/).
+Future Sketches, MIT Media Lab [https://www.media.mit.edu/groups/future-sketches/overview/](https://www.media.mit.edu/groups/future-sketches/overview/).
 
-Institute for the Arts, Arizona State University [(https://artsmediaengineering.asu.edu/](https://artsmediaengineering.asu.edu/).
+Institute for the Arts, Arizona State University [https://artsmediaengineering.asu.edu/](https://artsmediaengineering.asu.edu/).
 
-International Academy of Media Arts and Sciences (IAMAS) [(https://www.iamas.ac.jp/](https://www.iamas.ac.jp/).
+International Academy of Media Arts and Sciences (IAMAS) [https://www.iamas.ac.jp/](https://www.iamas.ac.jp/).
 
-ITP (Interactive Telecommunications Program), Tisch School of Arts, New York University [(https://tisch.nyu.edu/itp](https://tisch.nyu.edu/itp).
+ITP (Interactive Telecommunications Program), Tisch School of Arts, New York University [https://tisch.nyu.edu/itp](https://tisch.nyu.edu/itp).
 
-Kunsthochschule für Medien Köln [(https://www.khm.de/home/](https://www.khm.de/home/).
+Kunsthochschule für Medien Köln [https://www.khm.de/home/](https://www.khm.de/home/).
 
-Media Arts and Technology (MAT), University of California at Santa Barbara [(https://www.mat.ucsb.edu/](https://www.mat.ucsb.edu/).
+Media Arts and Technology (MAT), University of California at Santa Barbara [https://www.mat.ucsb.edu/](https://www.mat.ucsb.edu/).
 
-Media Lab, Massachusetts Institute of Technology [(https://www.media.mit.edu/](https://www.media.mit.edu/).
+Media Lab, Massachusetts Institute of Technology [https://www.media.mit.edu/](https://www.media.mit.edu/).
 
-School for Poetic Computation, New York [(https://sfpc.io/](https://sfpc.io/).
+School for Poetic Computation, New York [https://sfpc.io/](https://sfpc.io/).
 
-School of Art, Design and Media (ADM), Nanyang Technological University in Singapore [(https://www.ntu.edu.sg/adm](https://www.ntu.edu.sg/adm).
+School of Art, Design and Media (ADM), Nanyang Technological University in Singapore [https://www.ntu.edu.sg/adm](https://www.ntu.edu.sg/adm).
 
-School of Arts, Technology and Emerging Communication (ATEC), University of Texas in Dallas [(https://atec.utdallas.edu/](https://atec.utdallas.edu/).
+School of Arts, Technology and Emerging Communication (ATEC), University of Texas in Dallas [https://atec.utdallas.edu/](https://atec.utdallas.edu/).
 
-School of Creative Media, Hong Kong City University [(https://www.scm.cityu.edu.hk](https://www.scm.cityu.edu.hk).
-
+School of Creative Media, Hong Kong City University [https://www.scm.cityu.edu.hk](https://www.scm.cityu.edu.hk).
